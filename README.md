@@ -20,7 +20,7 @@ scene, keyboard: space, →, 1–7.
 
 ## Story so far
 
-Episode 1 ("The Great Sheep Escape", in `../test01`): Tadcu's sheepdog Bryn
+Episode 1 ("The Great Sheep Escape", in `../episode01`): Tadcu's sheepdog Bryn
 left the gate open, ninety-nine ewes went walkabout, and only a bag of
 teisen lap could end the standoff.
 

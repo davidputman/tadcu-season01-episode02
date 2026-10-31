@@ -6,7 +6,7 @@
 
 ## Cold open — TITLE CARD (0:00–0:05.5)
 
-Dawn over Cwm Twp again — and this time, the trouble arrives by post.
+Dawn over Cwm Dwl again — and this time, the trouble arrives by post.
 
 > **TADCU**
 > *in "The Parcel"*
@@ -32,12 +32,12 @@ for after."
 
 ### SCENE 2 — THE POST OFFICE (0:19.5–0:33.5)
 
-**EXT. SWYDDFA'R POST, CWM TWP — MORNING**
+**EXT. SWYDDFA'R POST, Cwm Dwl — MORNING**
 
 A blue van. A green door. Nerys the postmistress in the window, reading
 glasses down at the end of her nose like a verdict.
 
-- **NARRATOR:** "The Post Office at Cwm Twp: half banking hall,
+- **NARRATOR:** "The Post Office at Cwm Dwl: half banking hall,
   half mild threat."
 - **TADCU:** "Morning, Nerys! I've come for my parcel — the one with
   my name on it TWICE."
@@ -108,7 +108,7 @@ at forty yards, that the bag holds no sheep food whatsoever.
 
 - **Palette** — Same series green/cream/slate/brick; Post Office adds
   postal blue `#35486b`, cardboard `#b98d52`, string `#8a6a30`.
-- **New cast** — Nerys, postmistress of Cwm Twp: hair bun, round glasses,
+- **New cast** — Nerys, postmistress of Cwm Dwl: hair bun, round glasses,
   postal blue overall. Reads by voice, finishes other people's sentences
   and the Post Office's arguments.
 - **Props** — The parcel (box + string + label), its nested lids, the

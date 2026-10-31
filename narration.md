@@ -13,7 +13,7 @@ beat in *italics* for the editor only. **BOLD = narrator, to be recorded.**
 ### ⏱ 0:00 — TITLE CARD (scene 1, 0:00–0:05.5)
 
 **(NARRATOR, cold open over the dawn hills)**
-> **Shwmae — back to Cwm Twp, where the gate is now firmly latched.
+> **Shwmae — back to Cwm Dwl, where the gate is now firmly latched.
 > Which means, this week, the trouble had to find a new way in.**
 
 ---
@@ -36,7 +36,7 @@ trouble.")**
 ### ⏱ 0:19.5 — THE POST OFFICE (scene 3)
 
 **0:20.5**
-> **The Post Office at Cwm Twp: half banking hall, half mild threat.**
+> **The Post Office at Cwm Dwl: half banking hall, half mild threat.**
 
 *(Tadcu arrives. Nerys in the window with the glasses.)*
 
@@ -99,7 +99,7 @@ trouble.")**
 ### ⏱ 1:19.5 — END CARD (scene 7)
 
 **1:21.7**
-> **Nos da, Cwm Twp. And mind your parcels. They say more
+> **Nos da, Cwm Dwl. And mind your parcels. They say more
 > than they let on.**
 
 *MUSIC OUT.*

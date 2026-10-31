@@ -31,7 +31,7 @@ addressed to Tadcu from Pontypool.
 
 ## New in this episode
 
-- **Nerys** — postmistress of Cwm Twp. Hair bun, round glasses, postal blue
+- **Nerys** — postmistress of Cwm Dwl. Hair bun, round glasses, postal blue
   overalls. Weighs parcels and arguments on the same scales.
 - **The parcel** — cardboard, string, a label with Tadcu's name twice, and
   structural ambiguity about its contents.
@@ -41,4 +41,4 @@ addressed to Tadcu from Pontypool.
 
 Style: the same flat 2-D vector language as Episode 1 (HTML + CSS + SVG,
 no assets). Runtime ~86 seconds across 7 panels. © 2026 — Tadcu series.
-Production run `test02` of the Cwm Twp production unit.
+Production run `test02` of the Cwm Dwl production unit.

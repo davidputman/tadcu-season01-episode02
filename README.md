@@ -41,4 +41,4 @@ addressed to Tadcu from Pontypool.
 
 Style: the same flat 2-D vector language as Episode 1 (HTML + CSS + SVG,
 no assets). Runtime ~86 seconds across 7 panels. © 2026 — Tadcu series.
-Production run `test02` of the Cwm Dwl production unit.
+Production run `episode02` of the Cwm Dwl production unit.

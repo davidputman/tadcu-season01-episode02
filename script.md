@@ -1,6 +1,6 @@
 # Tadcu — Episode 2: "The Parcel"
 
-*Series: Tadcu · Episode 2 · Production: test02*
+*Series: Tadcu · Episode 2 · Production: episode02*
 
 ---
 
